@@ -1,4 +1,7 @@
-## 游戏截图
+## Introduction
+Luminous Space Warfare is a universe-themed game where you can race through the stars and engage in epic planetary battles.
+
+## Game ScreenShot
 
 ### CelestialBodies
 ![CelestialBodies](Figs/CelestialBodies.png)
