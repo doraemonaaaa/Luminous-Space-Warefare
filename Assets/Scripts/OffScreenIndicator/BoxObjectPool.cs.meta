@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ec7bc0570e80f044b8ca4a58c6ee5a78
+timeCreated: 1513009025
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71799
+  packageName: Off Screen Target Indicator
+  packageVersion: 3.0
+  assetPath: Assets/Pixel Play/Scripts/OffScreenIndicator/BoxObjectPool.cs
+  uploadId: 362973

@@ -21,8 +21,13 @@ Papers/
 
 # 不忽略其内容
 !.gitignore
+!Assets/
+Assets/*
 !Assets/Scripts/
 !Assets/Scripts/**
+!ProjectSettings/
+!UserSettings/
 !Figs/
 !Figs/**
+!README.md
 

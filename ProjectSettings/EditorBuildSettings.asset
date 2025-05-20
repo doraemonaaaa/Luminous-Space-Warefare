@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/SpaceCombatKit/Scenes/MainScenes/SCK_MainMenu.unity
+    guid: 2415e2c064cc4e14580a797e719a02db
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/SpaceCombatKit/Scenes/MainScenes/SCK_Loadout_SpaceFighters.unity
+    guid: 7940ed2505a20054ebc34c0d0b980356
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/SpaceCombatKit/Scenes/MainScenes/SCK_SpaceFighters.unity
+    guid: 8849994249cd811498a169c6a3eaf51b
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/SpaceCombatKit/Scenes/MainScenes/SCK_Loadout_CapitalShips.unity
+    guid: 786f058b84b6e83439477ee9cca3a223
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/SpaceCombatKit/Scenes/MainScenes/SCK_CapitalShips.unity
+    guid: a0edf0e0fd97caf4d986be0a47435696
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/SpaceCombatKit/Scenes/MainScenes/SCK_EnemyWaves.unity
+    guid: 8a4288098fa4c804d9b5440a8fabea5d
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/SpaceCombatKit/Scenes/MainScenes/SCK_ShipInteriors.unity
+    guid: 7de162d5dcdc8454194b925c337a68bf
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/SpaceCombatKit/Scenes/SimpleDemos/SCK_Basics_Flying.unity
+    guid: 996ae2c82a4a61c4292d69397815f9d0
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/SpaceCombatKit/Scenes/SimpleDemos/SCK_Basics_Weapons.unity
+    guid: 40716a81f1542974ba03105c47fc3569
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/SpaceCombatKit/Scenes/SimpleDemos/SCK_Basics_CarrierLaunch.unity
+    guid: 29547fda7b3c3064e948a4280420cbc0
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/VehicleCombatKits/Scenes/AutoTurrets.unity
+    guid: 9124ebfb03b73f04cbf6a62a7d0b9c7f
+  - enabled: 0
+    path: Assets/Plugins/SpaceCombatKit/VehicleCombatKits/Scenes/EnterableTurrets.unity
+    guid: dbfdc6cceaf2f7d4dbcf5464d0fd27e3
+  - enabled: 1
+    path: Assets/Scenes/Game/Racing Mode.unity
+    guid: 45edcfcb177469b4fb7076f20f08f73f
+  - enabled: 1
+    path: Assets/Scenes/Game/Main Menu.unity
+    guid: 3d5fa5a86674ed94b836a9fe43c82335
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: ad165d3fc68c8984088afdf327febc06,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
