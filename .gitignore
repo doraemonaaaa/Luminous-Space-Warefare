@@ -20,7 +20,9 @@ Papers/
 /*
 
 # 不忽略其内容
-!Assets/Scripts
-!Figs/*
 !.gitignore
+!Assets/Scripts/
+!Assets/Scripts/**
+!Figs/
+!Figs/**
 
